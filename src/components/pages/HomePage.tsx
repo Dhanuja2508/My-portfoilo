@@ -104,28 +104,28 @@ export default function HomePage() {
       icon: <BarChart3 size={32} />,
       title: "Data Visualization",
       description: "Creating intuitive dashboards and charts that communicate complex findings with clarity and impact.",
-      image: "https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=comp-viz"
+      image: "https://static.wixstatic.com/media/c3d12d_9d8abf6c4be4486e92d6895e23252d03~mv2.png?originWidth=320&originHeight=320"
     },
     {
       id: 'db',
       icon: <Database size={32} />,
       title: "Database Management",
       description: "Proficient in SQL and NoSQL databases, ensuring efficient data retrieval and storage optimization.",
-      image: "https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=comp-db"
+      image: "https://static.wixstatic.com/media/c3d12d_527ac813aa5d46ad9aa6b252281f7557~mv2.png?originWidth=320&originHeight=320"
     },
     {
       id: 'stat',
       icon: <TrendingUp size={32} />,
       title: "Statistical Analysis",
       description: "Applying advanced statistical methods to uncover trends, correlations, and predictive patterns.",
-      image: "https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=comp-stat"
+      image: "https://static.wixstatic.com/media/c3d12d_5f5d27e9dd4e4b2aa7e9fd198ccc4f2b~mv2.png?originWidth=320&originHeight=320"
     },
     {
       id: 'bi',
       icon: <FileSpreadsheet size={32} />,
       title: "Business Intelligence",
       description: "Translating data insights into actionable business strategies that drive growth and efficiency.",
-      image: "https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=comp-bi"
+      image: "https://static.wixstatic.com/media/c3d12d_d6f1759abcaf4fc291f165d41bfebf27~mv2.png?originWidth=320&originHeight=320"
     }
   ];
 
@@ -194,7 +194,7 @@ export default function HomePage() {
               <ParallaxContainer speed={-0.5} className="absolute top-0 right-0 w-3/4 aspect-[3/4] z-10">
                 <div className="w-full h-full overflow-hidden rounded-sm shadow-2xl border border-primary/10">
                   <Image 
-                    src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=hero-image-1"
+                    src="https://static.wixstatic.com/media/c3d12d_61aefcc704e14891abb9e05cf153b03e~mv2.png?originWidth=576&originHeight=768"
                     alt="Data visualization dashboard"
                     className="w-full h-full object-cover scale-110"
                     width={600}
@@ -206,7 +206,7 @@ export default function HomePage() {
               <ParallaxContainer speed={0.8} className="absolute bottom-12 left-0 w-2/3 aspect-square z-20">
                 <div className="w-full h-full overflow-hidden rounded-sm shadow-2xl border-4 border-background">
                   <Image 
-                    src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=hero-image-2"
+                    src="https://static.wixstatic.com/media/c3d12d_e773c565bfcf40b4ab2fc9ef31ab0616~mv2.png?originWidth=576&originHeight=768"
                     alt="Analyst working"
                     className="w-full h-full object-cover"
                     width={500}
@@ -332,7 +332,7 @@ export default function HomePage() {
           <div className="relative rounded-sm overflow-hidden group">
             <div className="aspect-[21/9] w-full relative">
               <Image 
-                src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=project-feature-bg"
+                src="https://static.wixstatic.com/media/c3d12d_587a2af96aa0405f8b8e11ba108baa6b~mv2.png?originWidth=1600&originHeight=640"
                 alt="Featured Project Analysis"
                 className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
                 width={1600}

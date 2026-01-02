@@ -13,7 +13,7 @@ export default function Header() {
       <div className="max-w-[120rem] mx-auto px-6 md:px-12 py-4 md:py-6">
         <div className="flex items-center justify-between">
           <Link to="/" className="font-heading text-xl md:text-2xl text-primary font-semibold">
-            Dhanuja
+            Dhanuja.S
           </Link>
           
           <nav className="flex items-center gap-6 md:gap-8">
